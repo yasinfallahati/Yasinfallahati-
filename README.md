@@ -1,16 +1,16 @@
-<div align="center">
+<p align="center"><img src="assets/hero.png" width="100%" alt="Profile moved"></p>
 
-<img src="./assets/banner.svg" alt="Profile moved" width="100%" />
+# This profile README moved
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Canonical-yasinfallahati%2Fyasinfallahati-7B61FF?style=for-the-badge">
+</p>
 
 ## English
 
-This repository is an **older / duplicate profile placeholder**.
+Older duplicate / placeholder. **Active profile README:**
 
-My active GitHub profile README is here:
-
-**→ [github.com/yasinfallahati/yasinfallahati](https://github.com/yasinfallahati/yasinfallahati)**
+### → [github.com/yasinfallahati/yasinfallahati](https://github.com/yasinfallahati/yasinfallahati)
 
 Portfolio: [profileyasin.vercel.app](https://profileyasin.vercel.app/)
 
@@ -18,14 +18,7 @@ Portfolio: [profileyasin.vercel.app](https://profileyasin.vercel.app/)
 
 ## فارسی
 
-این مخزن یک **پروفایل قدیمی/تکراری** است.
+این مخزن یک **جایگاه قدیمی** است.
 
-README اصلی پروفایل اینجا به‌روز می‌شود:
-
-**← [github.com/yasinfallahati/yasinfallahati](https://github.com/yasinfallahati/yasinfallahati)**
-
-پورتفolio: [profileyasin.vercel.app](https://profileyasin.vercel.app/)
-
----
-
-`#profile` `#redirect` `#YasinFalahati`
+**پروفایل فعال:** [yasinfallahati/yasinfallahati](https://github.com/yasinfallahati/yasinfallahati)  
+**پورتفolio:** [profileyasin.vercel.app](https://profileyasin.vercel.app/)
