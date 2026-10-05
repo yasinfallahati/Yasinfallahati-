@@ -1,59 +1,31 @@
-# 👋 Hi, I'm Yasin Fallahati
+<div align="center">
 
-🚀 A passionate developer building projects with code & creativity  
-💻 Interested in Web Development, Python, AI & Automation  
-🎯 Always learning, always building
+<img src="./assets/banner.svg" alt="Profile moved" width="100%" />
 
----
+</div>
 
-## 🧠 Skills
+## English
 
-- 🐍 Python (Automation, Bots, AI basics)
-- 🌐 HTML / CSS / JavaScript
-- ⚙️ C# (Basics / Desktop Apps)
-- 🔧 Git & GitHub
-- 🧩 Problem Solving
+This repository is an **older / duplicate profile placeholder**.
 
----
+My active GitHub profile README is here:
 
-## 🚀 Projects
+**→ [github.com/yasinfallahati/yasinfallahati](https://github.com/yasinfallahati/yasinfallahati)**
 
-- 🤖 Telegram Bots
-- 🌍 Simple Web Apps
-- 🧠 AI / Automation Scripts
-- 🎮 Small Game Experiments
+Portfolio: [profileyasin.vercel.app](https://profileyasin.vercel.app/)
 
 ---
 
-## 📊 GitHub Stats
+## فارسی
 
-![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinfallahati&show_icons=true&theme=tokyonight)
+این مخزن یک **پروفایل قدیمی/تکراری** است.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinfallahati&layout=compact&theme=tokyonight)
+README اصلی پروفایل اینجا به‌روز می‌شود:
 
----
+**← [github.com/yasinfallahati/yasinfallahati](https://github.com/yasinfallahati/yasinfallahati)**
 
-## 🔥 Current Focus
-
-- Improving Python skills 🐍  
-- Building real-world projects 💡  
-- Learning AI & Automation 🤖  
-- Leveling up in Web Development 🌐  
+پورتفolio: [profileyasin.vercel.app](https://profileyasin.vercel.app/)
 
 ---
 
-## 📫 Contact Me
-
-- 📩 Telegram: (your id here)
-- 📷 Instagram: (your id here)
-- 💼 Open to collaboration & freelance
-
----
-
-## ⚡ Fun Fact
-
-> "I turn coffee into code ☕💻"
-
----
-
-⭐ Thanks for visiting my profile!
+`#profile` `#redirect` `#YasinFalahati`
