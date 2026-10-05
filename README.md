@@ -1,24 +1,59 @@
-<p align="center"><img src="assets/hero.png" width="100%" alt="Profile moved"></p>
+# 👋 Hi, I'm Yasin Fallahati
 
-# This profile README moved
-
-<p align="center">
-<img src="https://img.shields.io/badge/Canonical-yasinfallahati%2Fyasinfallahati-7B61FF?style=for-the-badge">
-</p>
-
-## English
-
-Older duplicate / placeholder. **Active profile README:**
-
-### → [github.com/yasinfallahati/yasinfallahati](https://github.com/yasinfallahati/yasinfallahati)
-
-Portfolio: [profileyasin.vercel.app](https://profileyasin.vercel.app/)
+🚀 A passionate developer building projects with code & creativity  
+💻 Interested in Web Development, Python, AI & Automation  
+🎯 Always learning, always building
 
 ---
 
-## فارسی
+## 🧠 Skills
 
-این مخزن یک **جایگاه قدیمی** است.
+- 🐍 Python (Automation, Bots, AI basics)
+- 🌐 HTML / CSS / JavaScript
+- ⚙️ C# (Basics / Desktop Apps)
+- 🔧 Git & GitHub
+- 🧩 Problem Solving
 
-**پروفایل فعال:** [yasinfallahati/yasinfallahati](https://github.com/yasinfallahati/yasinfallahati)  
-**پورتفolio:** [profileyasin.vercel.app](https://profileyasin.vercel.app/)
+---
+
+## 🚀 Projects
+
+- 🤖 Telegram Bots
+- 🌍 Simple Web Apps
+- 🧠 AI / Automation Scripts
+- 🎮 Small Game Experiments
+
+---
+
+## 📊 GitHub Stats
+
+![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinfallahati&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinfallahati&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
+
+- Improving Python skills 🐍  
+- Building real-world projects 💡  
+- Learning AI & Automation 🤖  
+- Leveling up in Web Development 🌐  
+
+---
+
+## 📫 Contact Me
+
+- 📩 Telegram: (your id here)
+- 📷 Instagram: (your id here)
+- 💼 Open to collaboration & freelance
+
+---
+
+## ⚡ Fun Fact
+
+> "I turn coffee into code ☕💻"
+
+---
+
+⭐ Thanks for visiting my profile!
